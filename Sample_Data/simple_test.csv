@@ -1,0 +1,7 @@
+Animal;Father;Mother;Animal_Gender
+M17-78;M17-202;M17-303;male
+M17-79;M17-202;M17-303;female
+M17-202;M1-1;M1-2;male
+M17-303;M1-1;M1-2;female
+M1-1;0;0;male
+M1-2;0;0;female
